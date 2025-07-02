@@ -10,7 +10,7 @@ use App\Http\Controllers\KeranjangController;
 
 
 
-// Halaman Home
+// Halaman Home-
 Route::get('/', function () {
     return view('home');
 });
